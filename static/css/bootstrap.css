@@ -48,7 +48,7 @@ body {
 }
 
 a {
-  background:transparent;
+  background:<img src="images/bg.jpeg" alt="Lorem Pixel image">;
 }
 
 a:focus {
