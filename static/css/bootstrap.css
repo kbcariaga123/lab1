@@ -45,6 +45,7 @@ html {
 
 body {
   margin: 0;
+  background-image: <img src="images/bg.jpeg" alt="Lorem Pixel image">;
 }
 
 a {
