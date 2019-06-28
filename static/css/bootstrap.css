@@ -48,7 +48,7 @@ body {
 }
 
 a {
-  background:bg.jpeg;
+  background:transparent;
 }
 
 a:focus {
