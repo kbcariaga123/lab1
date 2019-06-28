@@ -48,7 +48,7 @@ body {
 }
 
 a {
-  background-image: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjQ2IT684rjAhVNdXAKHbI5B-gQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbackground%2520image%2F&psig=AOvVaw2ubDnhWCxKFXXP612UBsbE&ust=1561767634224731;
+  background: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjQ2IT684rjAhVNdXAKHbI5B-gQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbackground%2520image%2F&psig=AOvVaw2ubDnhWCxKFXXP612UBsbE&ust=1561767634224731;
 }
 
 a:focus {
