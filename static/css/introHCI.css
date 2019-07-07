@@ -138,6 +138,10 @@ footer{
   background-size: 100% 900px;
 }
 
+.contact {
+  background-image: url("../images/me18.jpg");
+}
+
 /* SPACER */
 .spacer {
 	display: block; 
